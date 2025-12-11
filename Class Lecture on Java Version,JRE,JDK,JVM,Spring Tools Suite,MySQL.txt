@@ -1,0 +1,35 @@
+We use java --version command to check the version of java
+
+In case of java 
+
+pip= platform independent portable 
+
+In case of python
+
+pip= python install package
+
+Java is platform independent which means it will run on any platform be it may windows, Linux and Mac.
+
+Java is portable which we use the same code on multiple platforms.
+
+JRE stands for java runtime environment.
+
+EE stands for enterprise edition.
+
+SS stands for standard edition.
+
+JDK stands for java development kit.
+
+VM stands for virtual machine.
+
+SCM stands for source code management.
+
+The JVM translates Java bytecode into native machine instructions the host computer's processor can understand. 
+
+JVM stands for java virtual machine.
+
+we generally use java 17 or 21.
+
+TM stands for trademark.
+
+ 
